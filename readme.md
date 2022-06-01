@@ -1,3 +1,11 @@
+<!-- github progile stats -->
+
+
+[![Syed Faysel's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedfaysel&hide=prs&count_private=true&show_icons=true&theme=dark)](https://github.com/syedfaysel/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedfaysel&layout=compact&count_private=true)](https://github.com/syedfaysel/github-readme-stats)
+
+
 ## Hi there, 
 # I'm Syed Faysel Ahammad Rajo
 [![Website](https://img.shields.io/website?label=syedfaysel.me&style=for-the-badge&url=https://syedfaysel.me/)](https://syedfaysel.me/)
