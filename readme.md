@@ -7,7 +7,7 @@
 
 <h1 align="center">Syed Faysel Ahammad Rajo</h1>
 
-<h3 align="center">CSE Student | Web Dev</h3>
+<h3 align="center">CSE Student | Full Stack Developer</h3>
 <br />
 <br />
 
